@@ -1,0 +1,12 @@
+D:\DI\DependencyInjection\Services\bin\Release\netcoreapp2.1\Services.deps.json
+D:\DI\DependencyInjection\Services\bin\Release\netcoreapp2.1\Services.dll
+D:\DI\DependencyInjection\Services\bin\Release\netcoreapp2.1\Services.pdb
+D:\DI\DependencyInjection\Services\bin\Release\netcoreapp2.1\Data.dll
+D:\DI\DependencyInjection\Services\bin\Release\netcoreapp2.1\Data.pdb
+D:\DI\DependencyInjection\Services\obj\Release\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\DI\DependencyInjection\Services\obj\Release\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\DI\DependencyInjection\Services\obj\Release\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\DI\DependencyInjection\Services\obj\Release\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\DI\DependencyInjection\Services\obj\Release\netcoreapp2.1\Services.csproj.CopyComplete
+D:\DI\DependencyInjection\Services\obj\Release\netcoreapp2.1\Services.dll
+D:\DI\DependencyInjection\Services\obj\Release\netcoreapp2.1\Services.pdb

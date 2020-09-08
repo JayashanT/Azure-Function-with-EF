@@ -26,7 +26,7 @@ namespace FunctionApp
             [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
             ILogger log)
         {
-            return new OkObjectResult(_dummyServices.method());
+            return new OkObjectResult(_dummyServices.GetUsers());
         }
     }
 }

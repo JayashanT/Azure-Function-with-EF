@@ -4,6 +4,7 @@ using System.Text;
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using Services;
+using Data;
 
 
 [assembly: FunctionsStartup(typeof(FunctionApp.Startup))]
@@ -14,13 +15,10 @@ namespace FunctionApp
     {
         public override void Configure(IFunctionsHostBuilder builder)
         {
-            //builder.Services.AddHttpClient();
             builder.Services.AddLogging();
-            /* builder.Services.AddSingleton<IMyService>((s) => {
-                 return new MyService();
-             });*/
-            //builder.Services.AddTransient<IUserServices, UserServices>();
+            builder.Services.RegisterServices();
             builder.Services.RegisterDataServices();
+            
         }
     }
 }

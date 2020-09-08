@@ -9,7 +9,7 @@ namespace Services
 {
     public static class ServiceCollectionExtensions
     {
-        public static IServiceCollection RegisterDataServices(this IServiceCollection services)
+        public static IServiceCollection RegisterServices(this IServiceCollection services)
         {
             services.AddTransient<IDummyServices, DummyServices>();
             return services;
