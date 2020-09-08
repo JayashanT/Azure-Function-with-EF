@@ -7,3 +7,15 @@ D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo
 D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
 D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.dll
 D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\DI\DI\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\DI\DI\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\DI\DI\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\DI\DI\Services\bin\Debug\netcoreapp2.1\Data.dll
+D:\DI\DI\Services\bin\Debug\netcoreapp2.1\Data.pdb
+D:\DI\DI\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\DI\DI\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\DI\DI\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\DI\DI\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\DI\DI\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\DI\DI\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\DI\DI\Services\obj\Debug\netcoreapp2.1\Services.pdb

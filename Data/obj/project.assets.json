@@ -3622,11 +3622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DI\\DependencyInjection\\Data\\Data.csproj",
+      "projectUniqueName": "D:\\DI\\DI\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "D:\\DI\\DependencyInjection\\Data\\Data.csproj",
+      "projectPath": "D:\\DI\\DI\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\UnicornJTH\\.nuget\\packages\\",
-      "outputPath": "D:\\DI\\DependencyInjection\\Data\\obj\\",
+      "outputPath": "D:\\DI\\DI\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

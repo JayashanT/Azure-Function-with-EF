@@ -4116,11 +4116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DI\\DependencyInjection\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\DI\\DI\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\DI\\DependencyInjection\\Services\\Services.csproj",
+      "projectPath": "D:\\DI\\DI\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\UnicornJTH\\.nuget\\packages\\",
-      "outputPath": "D:\\DI\\DependencyInjection\\Services\\obj\\",
+      "outputPath": "D:\\DI\\DI\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4139,8 +4139,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\DI\\DependencyInjection\\Data\\Data.csproj": {
-              "projectPath": "D:\\DI\\DependencyInjection\\Data\\Data.csproj"
+            "D:\\DI\\DI\\Data\\Data.csproj": {
+              "projectPath": "D:\\DI\\DI\\Data\\Data.csproj"
             }
           }
         }
