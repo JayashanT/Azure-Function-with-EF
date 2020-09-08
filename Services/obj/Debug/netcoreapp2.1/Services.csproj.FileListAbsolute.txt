@@ -1,0 +1,9 @@
+D:\DI\DependencyInjection\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\DI\DependencyInjection\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\DI\DependencyInjection\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\DI\DependencyInjection\Services\obj\Debug\netcoreapp2.1\Services.pdb
