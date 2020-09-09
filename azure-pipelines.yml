@@ -1,4 +1,14 @@
 # Starter pipeline
+- task: AzureFunctionApp@1
+  inputs:
+    azureSubscription: 'Azure subscription 1 (d6bfa56d-9308-4816-821f-3e38fc96bb09)'
+    appType: 'functionApp'
+    appName: 'FunctionApp20200904094151'
+    deployToSlotOrASE: true
+    resourceGroupName: 'azurepractice'
+    slotName: 'production'
+    package: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    deploymentMethod: 'auto'
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
