@@ -1,4 +1,14 @@
 # .NET Core Function App to Windows on Azure
+- task: AzureFunctionApp@1
+  inputs:
+    azureSubscription: 'Azure subscription 1 (d6bfa56d-9308-4816-821f-3e38fc96bb09)'
+    appType: 'functionApp'
+    appName: 'FunctionApp20200904094151'
+    deployToSlotOrASE: true
+    resourceGroupName: 'azurepractice'
+    slotName: 'production'
+    package: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    deploymentMethod: 'auto'
 # Build a .NET Core function app and deploy it to Azure as a Windows function App.
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/en-us/azure/devops/pipelines/languages/dotnet-core
